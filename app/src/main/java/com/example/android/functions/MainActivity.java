@@ -204,8 +204,8 @@ public class MainActivity extends AppCompatActivity {
 
     // The method that displays the popup.
     private void showPopup(final Activity context, Point p) {
-        int popupWidth = 800;
-        int popupHeight = 400;
+        int popupWidth = 900;
+        int popupHeight = 500;
         // Inflate the popup_layout.xml
         LinearLayout viewGroup = (LinearLayout) context.findViewById(R.id.popup);
         LayoutInflater layoutInflater = (LayoutInflater) context
@@ -245,7 +245,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onClick(View v) {
-                // popup.dismiss();
+
                 // TODO Auto-generated method stub
                 mPlayer = MediaPlayer.create(getApplicationContext(), R.raw.remember);//Create MediaPlayer object with MP3 file under res/raw folder
                 mPlayer.start();//Start playing the music
@@ -258,7 +258,6 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onClick(View v) {
-                // popup.dismiss();
 
                 // TODO Auto-generated method stub
                 mPlayer = MediaPlayer.create(getApplicationContext(), R.raw.love);//Create MediaPlayer object with MP3 file under res/raw folder

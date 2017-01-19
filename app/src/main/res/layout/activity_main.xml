@@ -34,9 +34,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="23dp"
-                android:maxLength="25"
+                android:maxLength="22"
                 android:text="This song is about reminding someone to remember when they where together"
-                android:textColor="#DF533B"
+                android:textColor="#263238"
                 android:textSize="14dp"
                 android:textStyle="bold" />
         </LinearLayout>
@@ -58,9 +58,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="23dp"
-                android:maxLength="25"
+                android:maxLength="22"
                 android:text="This song is about reminding someone to remember when they where together"
-                android:textColor="#DF533B"
+                android:textColor="#263238"
                 android:textSize="14dp"
                 android:textStyle="bold" />
 
@@ -85,9 +85,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="23dp"
-                android:maxLength="25"
+                android:maxLength="22"
                 android:text="This song is about reminding someone to remember when they where together"
-                android:textColor="#DF533B"
+                android:textColor="#263238"
                 android:textSize="14dp"
                 android:textStyle="bold" />
 
@@ -110,9 +110,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="23dp"
-                android:maxLength="25"
+                android:maxLength="22"
                 android:text="This song is about reminding someone to remember when they where together"
-                android:textColor="#DF533B"
+                android:textColor="#263238"
                 android:textSize="14dp"
                 android:textStyle="bold" />
 
@@ -136,9 +136,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="23dp"
-                android:maxLength="25"
+                android:maxLength="22"
                 android:text="This song is about reminding someone to remember when they where together"
-                android:textColor="#DF533B"
+                android:textColor="#263238"
                 android:textSize="14dp"
                 android:textStyle="bold" />
 
@@ -163,9 +163,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="23dp"
-                android:maxLength="25"
+                android:maxLength="22"
                 android:text="This song is about reminding someone to remember when they where together"
-                android:textColor="#DF533B"
+                android:textColor="#263238"
                 android:textSize="14dp"
                 android:textStyle="bold" />
 
@@ -190,9 +190,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="23dp"
-                android:maxLength="25"
+                android:maxLength="22"
                 android:text="This song is about reminding someone to remember when they where together"
-                android:textColor="#DF533B"
+                android:textColor="#263238"
                 android:textSize="14dp"
                 android:textStyle="bold" />
 
@@ -218,9 +218,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="23dp"
-                android:maxLength="25"
+                android:maxLength="22"
                 android:text="This song is about reminding someone to remember when they where together"
-                android:textColor="#DF533B"
+                android:textColor="#263238"
                 android:textSize="14dp"
                 android:textStyle="bold" />
 
@@ -247,9 +247,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="23dp"
-                android:maxLength="25"
+                android:maxLength="22"
                 android:text="This song is about reminding someone to remember when they where together"
-                android:textColor="#f000"
+                android:textColor="#263238"
                 android:textSize="14dp"
                 android:textStyle="bold" />
 
@@ -276,11 +276,11 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="23dp"
-                android:maxLength="25"
+                android:maxLength="22"
                 android:text="This song is about reminding someone to remember when they where together"
-                android:textColor="#f000"
+                android:textColor="#263238"
                 android:textSize="14dp"
-                android:textStyle="bold" />
+                android:textStyle="bold"/>
 
         </LinearLayout>
 
